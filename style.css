@@ -1,0 +1,55 @@
+html {
+    background: #f4bdfc;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    border-bottom: 10px solid #242424;
+    background: #fff;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+#blog {
+    border-top: 2px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px solid #ccc;
+}
+
+table {
+    border: 2px solid #000;
+    margin: 10px;
+    background: #ddd;
+}
+
+td {
+    border: 1px solid #000;
+    text-align: center;
+}
+
+a[rel="author"] {
+    font-size: 1.2em;
+    font-style: normal;
+    font-weight: bold;
+}
